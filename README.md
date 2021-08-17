@@ -4,4 +4,9 @@
 Jakarta Composite Stock Index
 
 ## Model
-Ensemble Learning RNN-based Model with GA Hyperparameter Optimization
+Ensemble Learning RNN-based* Model with GA Hyperparameter Optimization
+
+### *) RNN Model
+- Elman-RNN
+- LSTM
+- GRU
