@@ -1,4 +1,4 @@
-# Prediksi Indeks Harga Saham Berdasarkan Indikator Teknikal dan Berita Sentimen Menggunakan Model Pembelajaran Ensemble Berbasis Jaringan Saraf Recurrent dan Algoritma Genetika
+# Prediction of Stock Price Index Based on Technical Indicators and Sentiment News Using Ensemble Learning Model Based on Recurrent Neural Networks and Genetic Algorithms
 
 ## Dataset
 Jakarta Composite Stock Index
